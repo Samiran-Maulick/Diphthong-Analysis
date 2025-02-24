@@ -19,12 +19,19 @@ This project is a **speech-processing tool** that transcribes and analyzes spoke
 
 ## How to Run
 1. **Clone the repository**  
-   git clone https://github.com/your-username/Diphthong-Analysis.git
-   cd Diphthong-Analysis
+
+git clone https://github.com/your-username/Diphthong-Analysis.git
+
+cd Diphthong-Analysis
+
 2. **Install dependencies**
+
 pip install torch torchaudio transformers pronouncing
+
 3. **Run the script**
+
 python diphthong_analysis.py
+
 4. Select an audio file when prompted.
 
 ## Team Members
