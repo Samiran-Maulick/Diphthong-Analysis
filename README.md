@@ -31,5 +31,7 @@ python diphthong_analysis.py
 This project was developed by:
 
 Samiran Maulick – Lead Developer
+
 Anupam Hui – Speech Processing & Model Integration
+
 Abhisikta Mondal – Phonetics & Linguistic Analysis
