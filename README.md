@@ -30,7 +30,7 @@ pip install torch torchaudio transformers pronouncing
 
 3. **Run the script**
 
-python diphthong_analysis.py
+python Final.py
 
 4. Select an audio file when prompted.
 
